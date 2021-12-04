@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  color:red;
+  font-family: 'Cookie', cursive;
+}
+
+h2 {
+  color:green;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 30px;
+  margin-top: -20px;
+}
