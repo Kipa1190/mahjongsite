@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  background-color: rgb(173, 204, 180);
+}
+
+.jumbotron {
+  margin: 0;
+  padding:10px;
+  background-image: url("./assets/img/tiles.jpg");
+  background-size: cover; 
+}
+
+.jumbotron h1 {
+  color:red;
+  font-family: 'Cookie', cursive;
+  font-size: 100px;
+}
+
+.jumbotron h2 {
+  color:green;
+  font-family: sans-serif;
+  margin-top: -10px;
+  font-size: 30px;
+}
+
+.navbar {
+  margin-top: -32px;
+  background-color: rgb(27, 83, 27);
+}
+
+body {
+  position: relative;
+  background-color: rgb(173, 204, 180);
+}
+
